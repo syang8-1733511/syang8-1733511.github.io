@@ -1,0 +1,141 @@
+
+head{ 
+    color: #070f31a9;
+    font-weight: inherit; 
+    text-align: center;
+    margin-left: center;
+    margin-right: center;
+    margin-bottom: 200px; 
+    margin-top: auto;
+    letter-spacing: 20px;
+    font-size: 90px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-decoration: line-through
+
+}
+body{
+    background-image: url('wow1.gif');
+}
+h1{
+    font-size: 90px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    color: #070f31a9;
+    font-weight: initial; 
+    text-align: center;
+    margin-left: center;
+    margin-right: center;
+    margin-bottom: 50px;
+    margin-top: center;
+    letter-spacing: 40px;
+    text-decoration: wavy
+
+}
+#One {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    border: solid 30px white;
+    border-style: groove;
+   
+}
+#account {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(10, 8, 39);
+    font-weight: 20px; 
+    text-align: left;
+    border: solid 10px rgb(13, 27, 65);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-style: outset;
+    float: center;
+
+}
+#PI {
+    font-size: 20px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    color: rgb(0, 60, 170);
+    font-weight: inherit; 
+    text-align: center;
+    border: solid 10px whitesmoke;
+    outline-style: solid;
+    outline-color: rgb(6, 15, 44);
+    outline-width: thin;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-style: dashed;
+    padding-top: center;
+    padding-right: center;
+    padding-bottom: center;
+    padding-left: center;
+    text-indent: 20px;
+    position: sticky;
+    overflow: scroll;
+    float: middle;
+
+}
+#AV {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgba(28, 9, 49, 0.281);
+    text-align: left;
+    border: solid 10px rgba(248, 240, 240, 0.562);
+    margin-left: 20px;
+    margin-right: 22px;
+    margin-bottom: 32px;
+    margin-top: 22px;
+    border-style: dashed;
+    padding-top: center;
+    padding-right: center;
+    padding-bottom: center;
+    padding-left: center;
+    letter-spacing: 4px;
+    line-height: 5x;
+    direction: rtl;
+    position: sticky;
+    overflow: scroll;
+  
+
+}
+#PS {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: navy;
+    font-weight: 20px; 
+    text-align: left;
+    border: solid 10px rgba(58, 7, 38, 0.562);
+    margin-left: 402px;
+    margin-right: 22px;
+    margin-bottom: 36px;
+    margin-top: 42px;
+    border-style: ridge;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    position: fixed;
+    clear: left;
+    display: list-item;
+    
+    
+    
+
+}
+#button {
+ max-width: 700px;
+  margin: auto;
+  border: 3px dotted;
+  color: black;
+  position: -webkit-sticky;
+  text-align:center;
+
+}
